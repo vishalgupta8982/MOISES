@@ -1,1 +1,2 @@
-![image](https://github.com/vishalgupta8982/MOISES-Music-App/assets/108549206/85e16eef-d8e0-4ddc-b09b-e37cc87703e5)
+<h1 align="center">MOISE MUSIC APP</h1>
+![collage](https://github.com/vishalgupta8982/MOISES-Music-App/assets/108549206/890af7ef-a598-47b0-860f-c2dd9319fe4a)
